@@ -1,0 +1,9 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="128" fill="#3B82F6"/>
+  <path d="M256 128C179.2 128 115.2 166.4 76.8 224C115.2 281.6 179.2 320 256 320C332.8 320 396.8 281.6 435.2 224C396.8 166.4 332.8 128 256 128Z" stroke="white" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 192C273.673 192 288 206.327 288 224C288 241.673 273.673 256 256 256C238.327 256 224 241.673 224 224C224 206.327 238.327 192 256 192Z" fill="white"/>
+  <path d="M180 224C180 181.072 214.072 147 257 147" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <path d="M332 224C332 181.072 297.928 147 255 147" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="256" cy="380" r="20" fill="white"/>
+  <text x="256" y="440" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle">WiFi</text>
+</svg>

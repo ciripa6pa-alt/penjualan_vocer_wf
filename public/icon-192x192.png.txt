@@ -1,0 +1,1 @@
+This is a placeholder for the WiFi icon (192x192). In production, replace with actual icon.
